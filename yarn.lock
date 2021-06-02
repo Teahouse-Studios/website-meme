@@ -8479,10 +8479,10 @@ vuetify-loader@^1.7.2:
     file-loader "^6.2.0"
     loader-utils "^2.0.0"
 
-vuetify@^2.4.5:
-  version "2.4.5"
-  resolved "https://registry.npm.taobao.org/vuetify/download/vuetify-2.4.5.tgz?cache=0&sync_timestamp=1614765546586&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvuetify%2Fdownload%2Fvuetify-2.4.5.tgz#86de190720d25511df9be37ff3c16a568972fc2d"
-  integrity sha1-ht4ZByDSVRHfm+N/88FqVoly/C0=
+vuetify@^2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.5.2.tgz#0f9ccf5dc8e9ee0a2f8376a965e2f909a420cac5"
+  integrity sha512-Tc8CJffVOTrBn0Zx51qn/m+Pl55EtOoKae7gIZjHGg9SQ/Oh94EWtsA8hF+JHE8udbQoef5GpWOpr2lCmBJ0zQ==
 
 watchpack-chokidar2@^2.0.1:
   version "2.0.1"
